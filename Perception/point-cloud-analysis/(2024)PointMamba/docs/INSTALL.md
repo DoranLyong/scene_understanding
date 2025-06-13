@@ -11,15 +11,15 @@ pip install -r requirements.txt
 
 Chamfer Distance & emd
 ```
-cd ./extensions/chamfer_dist && pip install -e .
-cd ./extensions/emd && pip install -e .
+cd PointMamba/extensions/chamfer_dist && pip install -e .
+cd PointMamba/extensions/emd && pip install -e .
 ```
 
 
 PointNet++
 ```
 git clone https://github.com/DoranLyong/Pointnet2_PyTorch_Install.git
-cd ./pointnet2_ops_lib
+cd Pointnet2_PyTorch_Install/pointnet2_ops_lib
 pip install -e .
 ```
 
@@ -38,7 +38,7 @@ Mamba
 ```bash
 # -- causal depthwise conv1d
 git clone --branch v1.2.0 --single-branch https://github.com/Dao-AILab/causal-conv1d.git
-cd ./causal-conv1d
+cd causal-conv1d
 pip install -e .
 
 # -- mamba
