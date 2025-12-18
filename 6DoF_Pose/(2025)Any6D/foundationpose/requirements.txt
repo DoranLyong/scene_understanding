@@ -1,0 +1,73 @@
+# JupyterLab
+jupyterlab
+ipywidgets
+
+
+# Common Libraries
+numpy
+scipy
+scikit-learn
+scikit-image
+pyyaml
+ruamel.yaml
+ninja
+h5py
+numba
+pybind11
+
+# CV Libraries
+imageio
+opencv-python
+opencv-contrib-python
+plotly
+open3d
+pyglet
+pysdf
+
+# Trimesh
+trimesh
+xatlas
+rtree
+
+# PyRender
+pyrender
+pyOpenGL
+pyOpenGL_accelerate
+
+meshcat
+webdataset
+omegaconf
+pypng
+Panda3D
+simplejson
+bokeh
+roma
+seaborn
+pin
+openpyxl
+torchnet
+wandb
+colorama
+GPUtil
+imgaug
+xlsxwriter
+timm
+albumentations
+xatlas
+nodejs
+jupyterlab
+objaverse
+g4f
+ultralytics
+pycocotools
+py-spy
+pybullet
+videoio
+kornia
+einops
+transformations
+joblib
+warp-lang
+
+# For PyTorch3D
+fvcor
