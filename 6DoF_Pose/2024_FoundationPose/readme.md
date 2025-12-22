@@ -103,7 +103,7 @@ Then modify the bash script to use this image instead of `foundationpose:latest`
 
 # Env setup option 2: conda (experimental) ← I used this!
 
-- Setup [mamba](https://github.com/conda-forge/miniforge) environment
+- Setup conda environment
 
 ```bash
 #-- create conda environment
