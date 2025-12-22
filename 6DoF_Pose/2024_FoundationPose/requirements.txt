@@ -38,7 +38,8 @@ rtree==1.4.1
 
 # PyRender
 pyrender==0.1.45
-pyOpenGL==3.1.0
+pyOpenGL>=3.1.0
+pyOpenGL_accelerate>=3.1.0
 
 meshcat==0.3.2
 webdataset==1.0.2

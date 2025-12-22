@@ -107,7 +107,7 @@ Then modify the bash script to use this image instead of `foundationpose:latest`
 
 ```bash
 #-- create conda environment
-mamba create -n foundationpose python=3.12
+mamba create -n foundationpose python=3.10
 
 #-- activate conda environment
 mamba activate foundationpose
