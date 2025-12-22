@@ -11,7 +11,7 @@ from setuptools import setup
 from torch.utils.cpp_extension import BuildExtension, CUDAExtension
 from torch.utils.cpp_extension import load
 import os,sys
-import gridencoder
+from mycuda import gridencoder
 
 
 _gridtype_to_id = {
